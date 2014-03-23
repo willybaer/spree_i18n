@@ -1093,3 +1093,10 @@ de:
     zipcode: Postleitzahl
     zone: Gebiet
     zones: Gebiete
+
+  views:
+    pagination:
+      next: Nächste Seite
+      last: Letzte Seite
+      previous: Vorherige Seite
+      first: Erste Seite
